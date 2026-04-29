@@ -1,6 +1,6 @@
 ## Gustavo Zermiani
 
-aqui é tua descriçãoooooooooooooooooooooo
+Meu nome é Gustavo Zermiani, curso Eng.Software na univille. Estou desenvolvendo projetos próprios para evoluir como programador e aprofundar minhas habilidades na prática. Também tenho interesse em colaborar em iniciativas que tragam novos desafios e contribuam para o meu crescimento profissional.
 
 <p>
     </a> 
